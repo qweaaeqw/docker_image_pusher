@@ -1,2 +1,1 @@
-
-ingress-nginx-controller:v1.11.2
+controller:v1.11.2
