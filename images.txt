@@ -1,1 +1,1 @@
-php:8-apache
+hanchuanchuan/goinception:latest
